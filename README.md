@@ -5,7 +5,7 @@ Este proyecto contiene el diseño y desarrollo de una base de datos relacional p
 ---
 
 # imagen del diagrama E-R
-![imagen](./storage/img/diagrama%20E-R.jpeg)
+![imagen](/diagrama%20E-R.jpeg)
 
 ## 📁 Estructura de archivos
 
