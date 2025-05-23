@@ -1,7 +1,6 @@
 CREATE DATABASE veterinaria;
 USE veterinaria;
 
--- Crear todas las tablas desde cero y en orden correcto
 
 -- Tabla Dueños
 CREATE TABLE duenios (
